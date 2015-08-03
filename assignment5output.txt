@@ -1,0 +1,77 @@
+234 456 789
+
+346 563 834
+
+567 124 746
+
+134 432 367
+
+236 478 345
+
+654 786 231
+
+294 834 845
+
+111 345 786
+
+567 213 457
+
+766 325 555
+
+777 346 233
+
+775 657 818
+
+569 432 653
+
+433 543 119
+
+765 395 567
+
+The function print1array will print out the person's first credit scores for the company  
+
+
+
+ 234  346  567  134  236  654 
+
+ 294  111  567  766  777  775 
+
+ 569  433  765 
+
+The function print1array will print out the person's second credit scores for the  company  
+
+
+
+ 456  563  124  432  478  786 
+
+ 834  345  213  325  346  657 
+
+ 432  543  395 
+
+The function print1array will print out the person's third credit scores for the company   
+
+
+
+ 789  834  746  367  345  231 
+
+ 845  786  457  555  233  818 
+
+ 653  119  567 
+
+The function print1array will print out the largest score array for the credit scores 
+
+
+
+ 789  834  746  432  478  786 
+
+ 845  786  567  766  777  818 
+
+ 653  543  765 
+
+The smallest element in array score1 is 111 this value occurs in position  7
+
+The smallest element in array score2 is 124 this value occurs in position  2
+
+The smallest element in array score3 is 119 this value occurs in position  13
+
+The smallest element in array largestscore is 432 this value occurs in position  3
